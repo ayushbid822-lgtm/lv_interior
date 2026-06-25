@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/scroll-animation/standalone.html"
+    }
+  ]
+}
