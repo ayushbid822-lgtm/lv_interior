@@ -1,8 +1,6 @@
 {
+  "cleanUrls": true,
   "rewrites": [
-    {
-      "source": "/",
-      "destination": "/scroll-animation/standalone.html"
-    }
+    { "source": "/", "destination": "/standalone.html" }
   ]
 }
